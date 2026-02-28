@@ -1,11 +1,11 @@
 ## Hi there 👋
+<!--
 
 ![GitHub](https://img.shields.io/github/license/ChampSim/ChampSim)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ChampSim/ChampSim/test.yml)
 ![GitHub forks](https://img.shields.io/github/forks/ChampSim/ChampSim)
 [![Coverage Status](https://coveralls.io/repos/github/ChampSim/ChampSim/badge.svg?branch=develop)](https://coveralls.io/github/ChampSim/ChampSim?branch=develop)
 
-<!--
 **danielwhn25/danielwhn25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
