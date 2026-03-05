@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 <!--
 
 ![GitHub](https://img.shields.io/github/license/ChampSim/ChampSim)
