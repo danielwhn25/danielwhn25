@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003049,100:023e8a&height=220&section=header&text=Daniel%20Ng&fontSize=72&fontColor=90e0ef&fontAlignY=35&desc=Electrical%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20Firmware&descAlignY=70&descSize=19&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003049,100:023e8a&height=220&section=header&text=Daniel%20Ng&fontSize=72&fontColor=#5d99d5&fontAlignY=35&desc=Electrical%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20Firmware&descAlignY=70&descSize=19&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=90E0EF&center=true&vCenter=true&width=750&lines=Bare-metal+firmware+on+ARM+Cortex+%2B+8051+%2B+RISC-V;RF+%26+hardware+test+%40+Norsat+(Ku-Band+BUCs%2FLNBs);Timing+Gates+Project+Lead+%40FormulaUBC;STM32+%7C+ESP32+%7C+EFM8+%7C+I%C2%B2C+%7C+SPI+%7C+CAN+%7C+RS-485" />
