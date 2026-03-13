@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e1016&height=220&section=header&text=Daniel%20Ng&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Electrical%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20Firmware&descAlignY=70&descSize=19&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111624&height=220&section=header&text=Daniel%20Ng&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Electrical%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20Firmware&descAlignY=70&descSize=19&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=5D99D5&center=true&vCenter=true&width=750&lines=Bare-metal+firmware+on+ARM+Cortex+%2B+8051+%2B+RISC-V;RF+%26+hardware+test+%40+Norsat+(Ku-Band+BUCs%2FLNBs);Timing+Gates+Project+Lead+%40FormulaUBC;STM32+%7C+ESP32+%7C+EFM8+%7C+I%C2%B2C+%7C+SPI+%7C+CAN+%7C+RS-485" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=5D99D5&center=true&vCenter=true&width=750&lines=Bare-metal+firmware+on+ARM+Cortex+%2B+8051+%2B+RISC-V;RF+%26+hardware+test+%40+Norsat+(Ku-Band+BUCs%2FLNBs);Timing+Gates+Project+Lead+@FormulaUBC;STM32+%7C+ESP32+%7C+EFM8+%7C+I%C2%B2C+%7C+SPI+%7C+CAN+%7C+RS-485" />
 </a>
 
 <br/><br/>
@@ -63,7 +63,7 @@ typedef struct {
 ![C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/A51%20Assembly-6E4C13?style=for-the-badge&logoColor=white)
-![RISC-V ASM](https://img.shields.io/badge/RISC--V%20ASM-283272?style=for-the-badge&logoColor=white)
+![RISC-V ASM](https://img.shields.io/badge/RISC--V%20ASM-283272?style=for-the-badge&logo=riscv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logoColor=white)
 
@@ -161,7 +161,7 @@ Deterministic thermal FSM on the 8052 uC:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e1016&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111624&height=120&section=footer" />
 
 </div>
 
@@ -169,11 +169,11 @@ Deterministic thermal FSM on the 8052 uC:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielwhn25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0e1016&title_color=5d99d5&icon_color=5d99d5&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwhn25&layout=compact&theme=github_dark&hide_border=true&bg_color=0e1016&title_color=5d99d5&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielwhn25&show_icons=true&theme=github_dark&hide_border=true&bg_color=111624&title_color=5d99d5&icon_color=5d99d5&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwhn25&layout=compact&theme=github_dark&hide_border=true&bg_color=111624&title_color=5d99d5&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielwhn25&theme=github-dark-blue&hide_border=true&background=0e1016&ring=5d99d5&fire=ff9d00&currStreakLabel=5d99d5" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielwhn25&theme=github-dark-blue&hide_border=true&background=111624&ring=5d99d5&fire=ff9d00&currStreakLabel=5d99d5" />
 
 </div>
