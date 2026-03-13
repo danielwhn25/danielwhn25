@@ -161,7 +161,7 @@ Deterministic thermal FSM on the 8052 uC:
 
 ---
 
-## Current Obsessions
+## Personal "OSI Layer"
 
 ```text
  LAYER 0  |  A51 / RISC-V Assembly — hand-crafted ISR tables
