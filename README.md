@@ -28,7 +28,7 @@
 #define SCHOOL      "UBC Electrical Engineering (BASc Co-op · May 2028)"
 #define AVAILABLE   "May 2026 — co-op / internship"
 #define PREV        "Hardware Test Intern @ Norsat (Ku-Band RF systems)"
-#define NOW         "Firmware Lead @ UBC Formula Racing (laser lap timer)"
+#define NOW         "Project Lead @ UBC Formula Racing (laser lap timer)"
 
 typedef struct {
     char  *mcus[]    = { "STM32L051", "ESP32-S3", "EFM8", "N76E003",
