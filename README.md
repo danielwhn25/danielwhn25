@@ -1,142 +1,163 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Daniel%20Ng&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Firmware&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003049,100:023e8a&height=220&section=header&text=Daniel%20Ng&fontSize=72&fontColor=90e0ef&fontAlignY=40&desc=Electrical%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Firmware&descAlignY=60&descSize=19&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&width=700&lines=Bare-metal+firmware+%26+FPGA+development;RF+%26+hardware+test+%40+Norsat;UBC+Formula+Racing+%E2%80%94+Electrical+%26+Firmware+Lead;CAN+%7C+SPI+%7C+I%C2%B2C+%7C+UART+%7C+ESP32+%7C+8051;BASc+Electrical+Engineering+%40+UBC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=90E0EF&center=true&vCenter=true&width=750&lines=Bare-metal+firmware+on+ARM+Cortex+%2B+8051+%2B+RISC-V;FPGA+RTL+design+%E2%80%94+SystemVerilog+on+DE10-Lite;RF+%26+hardware+test+%40+Norsat+(Ku-Band+BUCs%2FLNBs);Firmware+Lead+%40+UBC+Formula+Racing;STM32+%7C+ESP32+%7C+EFM8+%7C+I%C2%B2C+%7C+SPI+%7C+CAN+%7C+RS-485" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- QUICK STATS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=danielwhn25&color=00b4d8&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielngEE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00b4d8?style=flat-square&logo=vercel&logoColor=white)](https://danielng.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-023e8a?style=flat-square&logo=vercel&logoColor=white)](https://danielng.pages.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daniel.whn@outlook.com)
+![Views](https://komarev.com/ghpvc/?username=danielwhn25&color=023e8a&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```c
-/* daniel_ng.h */
+/* daniel_ng.h  —  last compiled: 2026 */
+
 #ifndef DANIEL_NG_H
 #define DANIEL_NG_H
 
-typedef struct {
-    char*  name        = "Daniel Ng";
-    char*  school      = "UBC Electrical Engineering (BASc, Co-op)";
-    char*  role        = "Electrical & Firmware Lead @ UBC Formula Racing";
-    char*  prev_exp    = "Hardware Test Intern @ Norsat";
-    char*  focus[]     = { "Bare-metal Firmware", "FPGA Design",
-                           "RF Systems", "Embedded IoT", "PCB Design" };
-    bool   open_to     = INTERNSHIPS | COLLAB | OPEN_SOURCE;
-    char*  email       = "daniel.whn@outlook.com";
-} Engineer;
+#define SCHOOL      "UBC Electrical Engineering (BASc Co-op · May 2028)"
+#define AVAILABLE   "May 2026 — co-op / internship"
+#define PREV        "Hardware Test Intern @ Norsat (Ku-Band RF systems)"
+#define NOW         "Firmware Lead @ UBC Formula Racing (laser lap timer)"
 
-#endif /* DANIEL_NG_H */
+typedef struct {
+    char  *mcus[]    = { "STM32L051", "ESP32-S3", "EFM8", "N76E003",
+                         "CV-8052", "Nios II", "RISC-V" };
+    char  *protos[]  = { "I2C", "SPI", "UART", "CAN", "USB",
+                         "RS-485", "NEC IR", "ESP-NOW" };
+    char  *hdl[]     = { "SystemVerilog", "A51 Assembly", "RISC-V ASM" };
+    char  *tools[]   = { "Altium Designer", "Quartus Prime", "Questa",
+                         "VNA", "Signal Analyzer", "Oscilloscope" };
+    bool   open_to   = INTERNSHIPS | COLLAB | OPEN_SOURCE;
+} Engineer_t;
+
+#endif
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Hardware & Firmware Stack
 
 <div align="center">
 
-### Languages & Low-Level
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/A51%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-CC0000?style=for-the-badge&logo=xilinx&logoColor=white)
+**Microcontrollers & Processors**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![8051](https://img.shields.io/badge/8051%20%2F%20EFM8-444444?style=for-the-badge&logoColor=white)
+![Nios II](https://img.shields.io/badge/Nios%20II-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
+
+**Languages & Low-Level**
+
+![C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/A51%20Assembly-6E4C13?style=for-the-badge&logoColor=white)
+![RISC-V ASM](https://img.shields.io/badge/RISC--V%20ASM-283272?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-CC0000?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logoColor=white)
 
-### Embedded & Protocols
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![8051](https://img.shields.io/badge/8051%20MCU-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-DE10--Lite-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![I2C](https://img.shields.io/badge/I²C-444444?style=for-the-badge&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-444444?style=for-the-badge&logoColor=white)
-![UART](https://img.shields.io/badge/UART-444444?style=for-the-badge&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN%20Bus-FF6600?style=for-the-badge&logoColor=white)
+**Communication Protocols**
+
+![I2C](https://img.shields.io/badge/I%C2%B2C-222222?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-222222?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-222222?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN%20Bus-FF6600?style=for-the-badge)
+![RS485](https://img.shields.io/badge/RS--485-555555?style=for-the-badge)
 ![USB](https://img.shields.io/badge/USB-5C2D91?style=for-the-badge&logo=usb&logoColor=white)
+![ESP-NOW](https://img.shields.io/badge/ESP--NOW-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![NEC IR](https://img.shields.io/badge/NEC%20IR-333333?style=for-the-badge)
 
-### EDA / Design Tools
-![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+**FPGA & EDA Tools**
+
+![FPGA](https://img.shields.io/badge/DE10--Lite%20FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![ModelSim](https://img.shields.io/badge/Questa%2FModelSim-00427E?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Questa](https://img.shields.io/badge/Questa%2FModelSim-00427E?style=for-the-badge)
+![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
-### Lab Equipment
-![VNA](https://img.shields.io/badge/Vector%20Network%20Analyzer-8B0000?style=for-the-badge&logoColor=white)
-![Oscilloscope](https://img.shields.io/badge/Oscilloscope-1A1A2E?style=for-the-badge&logoColor=white)
-![SMT](https://img.shields.io/badge/SMT%2FTHT%20Soldering-5C4033?style=for-the-badge&logoColor=white)
-![RF](https://img.shields.io/badge/RF%20Signal%20Analyzer-006400?style=for-the-badge&logoColor=white)
+**Lab Equipment**
+
+![VNA](https://img.shields.io/badge/Vector%20Network%20Analyzer-8B0000?style=for-the-badge)
+![Scope](https://img.shields.io/badge/Oscilloscope-1A1A2E?style=for-the-badge)
+![RF Analyzer](https://img.shields.io/badge/RF%20Signal%20Analyzer-006400?style=for-the-badge)
+![Soldering](https://img.shields.io/badge/SMT%2FTHT%20Soldering-5C4033?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 What I'm Building
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏎️ UBC Formula Racing — Laser Lap Timer
-**Firmware Lead & System Architect**
+### Digital Multimeter — STM32L051
+`Makefiles` `Embedded C` `STM32` `ADC` `Timers`
 
-Building a laser-based speed & lap timing system for a Formula SAE racecar:
-- Custom **3.3V CMOS analog front end** with optomechanical shrouding
-- **ESP-NOW** wireless link between master/slave **ESP32-S3** MCUs
-- Photodiode TIA noise characterization → adjustable hysteresis for **20 dB SNR**, **BER < 10⁻⁷**
+Full bare-metal RLC meter on an STM32L051:
+- Calibrated **ADC sampling** for resistance/voltage
+- **Timer-based frequency capture** via astable 555 circuit
+- **CMOS inverter-based inductance** measurement
+- Modular LCD/ADC/serial **driver architecture** with Makefile build system
+- Event-driven **IR remote + button** HMI; instant continuity detection
 
-`ESP32-S3` `ESP-NOW` `Analog Front End` `Wireless` `C`
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielwhn25/ELEC291_labs/tree/main/DMM_STM32LO51)
 
 </td>
 <td width="50%" valign="top">
 
-### ♨️ Oven Reflow Controller
-**Bare-Metal FPGA Firmware**
+### UBC Formula Racing — Laser Lap Timer
+`ESP32-S3` `ESP-NOW` `Analog Front End` `Wireless`
 
-Deterministic thermal control system on a **CV-8052 soft-core** (DE10-Lite):
-- FSM with adaptive **PWM closed-loop** control
-- **I²C** peripherals + **NEC IR** protocol decoding
-- **UART** telemetry + Python live-plot validation framework
-- **±3°C** accuracy across 25–240°C
+End-to-end laser speed & lap timing system:
+- Custom **3.3V CMOS analog front end** with optomechanical shrouding
+- **Master/slave ESP32-S3** MCUs over 2.4 GHz ESP-NOW
+- TIA noise + dark current characterization → adjustable hysteresis
+- Target: **20 dB SNR**, **BER < 10⁻⁷**
 
-`CV-8052` `FPGA` `I²C` `IR Decode` `UART` `PWM`
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielwhn25/FUBC-timing-gates)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📺 FPGA VGA Driver
-**Memory-Mapped Display & Game Engine**
+### Oven Reflow Controller — 8052 Bare Metal
+`A51 Assembly` `8052 uC` `NEC IR` `I2C` `PWM`
 
-- Bare-metal **VGA driver** using MMIO pixel buffer on DE10-Lite
-- **RGB565** color packing via bitmask/shift pipeline
-- Autonomous robot opponent with **real-time VGA buffer** collision reads
+Deterministic thermal FSM on the 8052 uC:
+- **PWM closed-loop** control with ADC sensor feedback
+- **Bit-level NEC IR** decoding + LCD/7-seg HMI
+- **UART telemetry** + Python live-plot validation
+- **±3°C accuracy** across 25–240°C thermal profile
 
-`SystemVerilog` `MMIO` `VGA` `RGB565` `Embedded C`
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielwhn25/4C11IV)
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 Norsat — RF Hardware Test
-**Ku-Band BUC/LNB Characterization**
+### FPGA VGA Driver + Game Engine
+`SystemVerilog` `DE10-Lite` `MMIO` `Embedded C`
 
-- Characterized **Ku-Band BUCs** using VNA, signal analyzers, oscilloscopes
-- Stabilized RF power modules by sweeping **DAC control codes**
-- **PCBA-level** SMT/THT soldering & microscopic inspection
-- 100% yield across **50+ production BUC units**
+Bare-metal display stack on DE10-Lite:
+- **MMIO pixel buffer** with 2D-to-1D bit-shift addressing
+- **RGB565** color packing via bitmask pipeline
+- Autonomous robot AI with **real-time VGA buffer** collision reads
 
-`VNA` `RF Systems` `PCB Debug` `SMT` `Schematic Analysis`
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielwhn25/vga_driver)
 
 </td>
 </tr>
@@ -144,49 +165,39 @@ Deterministic thermal control system on a **CV-8052 soft-core** (DE10-Lite):
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielwhn25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwhn25&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielwhn25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=90e0ef&icon_color=90e0ef&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwhn25&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=90e0ef&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielwhn25&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff9d00&currStreakLabel=00b4d8" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielwhn25&theme=github-dark-blue&hide_border=true&background=0d1117&ring=90e0ef&fire=ff9d00&currStreakLabel=90e0ef" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielwhn25&theme=darkhub&no-frame=true&column=7&margin-w=8&title_color=00b4d8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📡 Currently Focused On
+## Current Obsessions
 
 ```
-[ FIRMWARE ]  Bare-metal C on 8051/ESP32 — no HAL, no hand-holding
-[ FPGA     ]  SystemVerilog RTL design & simulation on DE10-Lite
-[ RF/HW    ]  PCB bring-up, signal integrity, VNA characterization
-[ COMMS    ]  CAN, SPI, I²C, UART, ESP-NOW, BLE wireless protocols
-[ RTOS     ]  Interrupt-driven architectures and deterministic scheduling
-[ NEXT     ]  Diving deeper into STM32, ARM Cortex-M, and custom PCB design
+ LAYER 0  |  A51 / RISC-V Assembly — hand-crafted ISR tables
+ LAYER 1  |  Bare-metal C drivers — no HAL, no RTOS hand-holding
+ LAYER 2  |  Protocol stacks — I2C, SPI, CAN, RS-485 from scratch
+ LAYER 3  |  FPGA RTL — SystemVerilog FSMs & timing closure
+ LAYER 4  |  Analog front ends — TIA, ADC, noise characterization
+ LAYER 5  |  RF & PCB — signal integrity, VNA, schematic debug
+ NEXT UP  |  FreeRTOS on ARM Cortex-M, custom Altium PCB bring-up
 ```
 
 ---
 
 <div align="center">
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:023e8a,60:003049,100:0d1117&height=120&section=footer" />
 
-*"The best firmware is the kind that runs forever without a watchdog reset."*
+*`while(alive) { learn(); build(); debug(); }`*
 
 </div>
