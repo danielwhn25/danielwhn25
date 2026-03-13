@@ -146,18 +146,6 @@ Deterministic thermal FSM on the 8052 uC:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielwhn25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=90e0ef&icon_color=90e0ef&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwhn25&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=90e0ef&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielwhn25&theme=github-dark-blue&hide_border=true&background=0d1117&ring=90e0ef&fire=ff9d00&currStreakLabel=90e0ef" />
-
-</div>
 
 ---
 
@@ -177,7 +165,5 @@ Deterministic thermal FSM on the 8052 uC:
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:023e8a,60:003049,100:0d1117&height=120&section=footer" />
-
-*`while(alive) { learn(); build(); debug(); }`*
 
 </div>
