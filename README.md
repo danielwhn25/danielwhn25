@@ -146,9 +146,6 @@ Deterministic thermal FSM on the 8052 uC:
 
 ---
 
-
----
-
 ## Personal "OSI Layer"
 
 ```text
