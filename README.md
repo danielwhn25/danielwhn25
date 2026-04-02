@@ -45,46 +45,45 @@ typedef struct {
 ```
 
 ---
-
 ## Hardware & Firmware Stack
 
 <div align="center">
 
 **Microcontrollers & Processors**
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![8051](https://img.shields.io/badge/8051%20%2F%20EFM8-444444?style=for-the-badge&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-222222?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32--S3-222222?style=for-the-badge&logo=espressif&logoColor=white)
+![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-222222?style=for-the-badge&logo=arm&logoColor=white)
+![8051](https://img.shields.io/badge/8051%20%2F%20EFM8-222222?style=for-the-badge&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-222222?style=for-the-badge&logo=riscv&logoColor=white)
 
 **Languages & Low-Level**
 
-![C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/A51%20Assembly-6E4C13?style=for-the-badge&logoColor=white)
-![RISC-V ASM](https://img.shields.io/badge/RISC--V%20ASM-283272?style=for-the-badge&logo=riscv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/Embedded%20C-222222?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-222222?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/A51%20Assembly-222222?style=for-the-badge&logoColor=white)
+![RISC-V ASM](https://img.shields.io/badge/RISC--V%20ASM-222222?style=for-the-badge&logo=riscv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-222222?style=for-the-badge&logoColor=white)
 
 **Communication Protocols**
 
 ![I2C](https://img.shields.io/badge/I%C2%B2C-222222?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-222222?style=for-the-badge)
 ![UART](https://img.shields.io/badge/UART-222222?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN%20Bus-FF6600?style=for-the-badge)
-![RS485](https://img.shields.io/badge/RS--485-555555?style=for-the-badge)
-![USB](https://img.shields.io/badge/USB-5C2D91?style=for-the-badge&logo=usb&logoColor=white)
-![ESP-NOW](https://img.shields.io/badge/ESP--NOW-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![NEC IR](https://img.shields.io/badge/NEC%20IR-333333?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN%20Bus-222222?style=for-the-badge)
+![RS485](https://img.shields.io/badge/RS--485-222222?style=for-the-badge)
+![USB](https://img.shields.io/badge/USB-222222?style=for-the-badge&logo=usb&logoColor=white)
+![ESP-NOW](https://img.shields.io/badge/ESP--NOW-222222?style=for-the-badge&logo=espressif&logoColor=white)
+![NEC IR](https://img.shields.io/badge/NEC%20IR-222222?style=for-the-badge)
 
 **PCB & Lab Equipment**
 
-![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![VNA](https://img.shields.io/badge/Vector%20Network%20Analyzer-8B0000?style=for-the-badge)
-![Scope](https://img.shields.io/badge/Oscilloscope-1A1A2E?style=for-the-badge)
-![RF Analyzer](https://img.shields.io/badge/RF%20Signal%20Analyzer-006400?style=for-the-badge)
-![Soldering](https://img.shields.io/badge/SMT%2FTHT%20Soldering-5C4033?style=for-the-badge)
+![Altium](https://img.shields.io/badge/Altium%20Designer-222222?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![VNA](https://img.shields.io/badge/Vector%20Network%20Analyzer-222222?style=for-the-badge)
+![Scope](https://img.shields.io/badge/Oscilloscope-222222?style=for-the-badge)
+![RF Analyzer](https://img.shields.io/badge/RF%20Signal%20Analyzer-222222?style=for-the-badge)
+![Soldering](https://img.shields.io/badge/SMT%2FTHT%20Soldering-222222?style=for-the-badge)
 
 </div>
 
