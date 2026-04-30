@@ -1,178 +1,87 @@
-<div align="center">
+# Daniel Ng
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111624&height=220&section=header&text=Daniel%20Ng&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Electrical%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20Firmware&descAlignY=70&descSize=19&animation=fadeIn" />
+Electrical Engineering student at UBC focused on embedded systems, firmware, PCB design, and hardware testing.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=5D99D5&center=true&vCenter=true&width=750&lines=Bare-metal+firmware+on+ARM+Cortex+%2B+8051+%2B+RISC-V;RF+%26+hardware+test+%40+Norsat+(Ku-Band+BUCs%2FLNBs);Timing+Gates+Project+Lead+@FormulaUBC;STM32+%7C+ESP32+%7C+EFM8+%7C+I%C2%B2C+%7C+SPI+%7C+CAN+%7C+RS-485" />
-</a>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielngEE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5d99d5?style=flat-square&logo=vercel&logoColor=white)](https://danielng.pages.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daniel.whn@outlook.com)
-![Views](https://komarev.com/ghpvc/?username=danielwhn25&color=5d99d5&style=flat-square&label=Profile+Views)
-
-</div>
+- Portfolio: [danielng.pages.dev](https://danielng.pages.dev)
+- LinkedIn: [linkedin.com/in/danielngEE](https://linkedin.com/in/danielngEE)
+- Email: [daniel.whn@outlook.com](mailto:daniel.whn@outlook.com)
 
 ---
 
-## About Me
+## About
 
-```c
-/* daniel_ng.h  —  last compiled: 2026 */
+I am an Electrical Engineering student at UBC with experience in embedded firmware, hardware bring-up, RF testing, and PCB design. My work focuses on building reliable low-level systems, from bare-metal firmware and microcontroller peripherals to analog front ends and lab validation.
 
-#ifndef DANIEL_NG_H
-#define DANIEL_NG_H
-
-#define SCHOOL    "UBC Electrical Engineering (BASc Co-op · May 2028)"
-#define AVAILABLE "May 2026 — co-op / internship"
-#define PREV      "Hardware Test Intern @ Norsat (Ku-Band RF systems)"
-#define NOW       "Timing Gates Project Lead @ FormulaUBC"
-
-typedef struct {
-    char  *mcus[]    = { "STM32L051", "ESP32-S3", "EFM8", "N76E003",
-                         "CV-8052", "RISC-V" };
-    char  *protos[]  = { "I2C", "SPI", "UART", "CAN", "USB",
-                         "RS-485", "NEC IR", "ESP-NOW" };
-    char  *hdl[]     = { "A51 Assembly", "RISC-V ASM" };
-    char  *tools[]   = { "Altium Designer", "VNA", "Signal Analyzer", 
-                         "Oscilloscope" };
-    bool   open_to   = INTERNSHIPS | COLLAB | OPEN_SOURCE;
-} Engineer_t;
-
-#endif
-```
+I previously worked as a Hardware Test Intern at Norsat International, where I supported RF characterization and troubleshooting of Ku-band hardware. I am currently leading the electrical and firmware development of a laser timing system for UBC Formula Racing.
 
 ---
-## Hardware & Firmware Stack
 
-<div align="center">
+## Technical Skills
 
-**Microcontrollers & Processors**
-
-![STM32](https://img.shields.io/badge/STM32-222222?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32--S3-222222?style=for-the-badge&logo=espressif&logoColor=white)
-![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-222222?style=for-the-badge&logo=arm&logoColor=white)
-![8051](https://img.shields.io/badge/8051%20%2F%20EFM8-222222?style=for-the-badge&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-222222?style=for-the-badge&logo=riscv&logoColor=white)
-
-**Languages & Low-Level**
-
-![C](https://img.shields.io/badge/Embedded%20C-222222?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-222222?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/A51%20Assembly-222222?style=for-the-badge&logoColor=white)
-![RISC-V ASM](https://img.shields.io/badge/RISC--V%20ASM-222222?style=for-the-badge&logo=riscv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-222222?style=for-the-badge&logoColor=white)
-
-**Communication Protocols**
-
-![I2C](https://img.shields.io/badge/I%C2%B2C-222222?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-222222?style=for-the-badge)
-![UART](https://img.shields.io/badge/UART-222222?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN%20Bus-222222?style=for-the-badge)
-![RS485](https://img.shields.io/badge/RS--485-222222?style=for-the-badge)
-![USB](https://img.shields.io/badge/USB-222222?style=for-the-badge&logo=usb&logoColor=white)
-![ESP-NOW](https://img.shields.io/badge/ESP--NOW-222222?style=for-the-badge&logo=espressif&logoColor=white)
-![NEC IR](https://img.shields.io/badge/NEC%20IR-222222?style=for-the-badge)
-
-**PCB & Lab Equipment**
-
-![Altium](https://img.shields.io/badge/Altium%20Designer-222222?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![VNA](https://img.shields.io/badge/Vector%20Network%20Analyzer-222222?style=for-the-badge)
-![Scope](https://img.shields.io/badge/Oscilloscope-222222?style=for-the-badge)
-![RF Analyzer](https://img.shields.io/badge/RF%20Signal%20Analyzer-222222?style=for-the-badge)
-![Soldering](https://img.shields.io/badge/SMT%2FTHT%20Soldering-222222?style=for-the-badge)
-
-</div>
+**Programming:** C, C++, Python, A51 Assembly, RISC-V Assembly  
+**Embedded Systems:** STM32, ESP32, EFM8, 8051, RISC-V, bare-metal firmware  
+**Protocols:** I2C, SPI, UART, CAN, USB, RS-485, ESP-NOW  
+**PCB & Hardware:** Altium Designer, analog front ends, ADCs, comparators, power systems  
+**Lab Equipment:** Oscilloscopes, VNAs, RF signal analyzers, multimeters, soldering/rework  
 
 ---
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### UBC Formula Racing — Laser Timing System
+
+End-to-end laser timing system for lap timing and speed measurement during vehicle testing.
+
+- Designed a 3.3 V analog front end using photodiode sensing, transimpedance amplification, and comparator-based digital output
+- Implemented ESP32-based wireless communication using ESP-NOW
+- Worked on noise reduction, hysteresis tuning, beam-break detection, and reliable timing capture
+- Designed the system for practical test-day use with optomechanical alignment and ambient-light rejection in mind
+
+[GitHub](https://github.com/danielwhn25/FUBC-timing-gates)
+
+---
 
 ### Digital Multimeter — STM32L051
-`Makefiles` `Embedded C` `STM32` `ADC` `Timers`
 
-Full bare-metal RLC meter on an STM32L051:
-- Calibrated **ADC sampling** for resistance/voltage
-- **Timer-based frequency capture** via astable 555 circuit
-- **CMOS inverter-based inductance** measurement
-- Modular LCD/ADC/serial **driver architecture** with Makefile build system
-- Event-driven **IR remote + button** HMI; instant continuity detection
+Bare-metal embedded system for measuring resistance, voltage, frequency, capacitance, and inductance.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielwhn25/ELEC291_labs/tree/main/DMM_STM32LO51)
+- Wrote embedded C firmware for ADC sampling, timers, LCD output, buttons, and serial communication
+- Used timer capture for frequency measurement
+- Built modular drivers for peripherals and user interface control
+- Used Makefiles for project build and organization
 
-</td>
-<td width="50%" valign="top">
-
-### UBC Formula Racing — Laser Lap Timer
-`ESP32-S3` `ESP-NOW` `Analog Front End` `Wireless`
-
-End-to-end laser speed & lap timing system:
-- Custom **3.3V CMOS analog front end** with optomechanical shrouding
-- **Master/slave ESP32-S3** MCUs over 2.4 GHz ESP-NOW
-- TIA noise + dark current characterization → adjustable hysteresis
-- Target: **20 dB SNR**, **BER < 10⁻⁷**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielwhn25/FUBC-timing-gates)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Oven Reflow Controller — 8052 Bare Metal
-`A51 Assembly` `8052 uC` `NEC IR` `I2C` `PWM`
-
-Deterministic thermal FSM on the 8052 uC:
-- **PWM closed-loop** control with ADC sensor feedback
-- **Bit-level NEC IR** decoding + LCD/7-seg HMI
-- **UART telemetry** + Python live-plot validation
-- **±3°C accuracy** across 25–240°C thermal profile
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielwhn25/4C11IV)
-
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
+[GitHub](https://github.com/danielwhn25/ELEC291_labs/tree/main/DMM_STM32LO51)
 
 ---
 
-## Personal "OSI Layer"
+### Reflow Oven Controller — 8052 Microcontroller
 
-```text
- LAYER 0  |  A51 / RISC-V Assembly — hand-crafted ISR tables
- LAYER 1  |  Bare-metal C drivers — no HAL, no RTOS hand-holding
- LAYER 2  |  Protocol stacks — I2C, SPI, CAN, RS-485 from scratch
- LAYER 3  |  Analog front ends — TIA, ADC, noise characterization
- LAYER 4  |  RF & PCB — signal integrity, VNA, schematic debug
- NEXT UP  |  FreeRTOS on ARM Cortex-M, custom Altium PCB bring-up
-```
+Bare-metal thermal control system written in A51 assembly.
+
+- Implemented a finite-state machine for reflow temperature profiles
+- Used PWM control with temperature feedback
+- Added NEC IR remote decoding, LCD output, and UART telemetry
+- Validated temperature behavior with live plotting and lab testing
+
+[GitHub](https://github.com/danielwhn25/4C11IV)
 
 ---
 
-<div align="center">
+## Experience
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111624&height=120&section=footer" />
+### Hardware Test Intern — Norsat International
 
-</div>
+Worked on RF hardware testing and troubleshooting for Ku-band systems.
 
-<br/>
+- Performed RF characterization using VNAs, RF signal analyzers, and lab test fixtures
+- Supported testing of gain, saturation, spurious emissions, IMD, and noise performance
+- Assisted with PCB-level inspection, rework, and troubleshooting
+- Used schematics and measurements to identify hardware issues in RF signal paths and bias circuitry
 
-<div align="center">
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielwhn25&show_icons=true&theme=github_dark&hide_border=true&bg_color=111624&title_color=5d99d5&icon_color=5d99d5&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielwhn25&layout=compact&theme=github_dark&hide_border=true&bg_color=111624&title_color=5d99d5&text_color=c9d1d9&langs_count=8"/>
+## Currently Learning
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielwhn25&theme=github-dark-blue&hide_border=true&background=111624&ring=5d99d5&fire=ff9d00&currStreakLabel=5d99d5" />
-
-</div>
+- FreeRTOS on ESP32 and ARM Cortex-M
+- PCB bring-up and power-system design
+- More structured firmware architecture for embedded projects
