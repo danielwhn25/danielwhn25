@@ -1,6 +1,6 @@
 # Daniel Ng
 
-Electrical Engineering student @UBC pursuing a career in embedded software development.
+Electrical Engineering student @ UBC pursuing a career in embedded software development.
 
 - Portfolio: [danielng.pages.dev](https://danielng.pages.dev)
 - LinkedIn: [linkedin.com/in/danielngEE](https://linkedin.com/in/danielngEE)
@@ -22,13 +22,13 @@ I previously worked as a Hardware Test Intern at Norsat International, where I s
 **Embedded Systems:** STM32, ESP32, EFM8, 8051, RISC-V, bare-metal firmware  
 **Protocols:** I2C, SPI, UART, CAN, USB, RS-485, ESP-NOW  
 **PCB & Hardware:** Altium Designer, analog front ends, ADCs, comparators, power systems  
-**Lab Equipment:** Oscilloscopes, VNAs, RF signal analyzers, multimeters, soldering/rework  
+**Lab Equipment:** Oscilloscopes, VNAs, RF signal analyzers, multimeters, soldering/rework
 
 ---
 
 ## Projects
 
-### UBC Formula Racing — Laser Timing System
+### UBC Formula Racing - Laser Timing System
 
 End-to-end laser timing system for lap timing and speed measurement during vehicle testing.
 
@@ -41,7 +41,7 @@ End-to-end laser timing system for lap timing and speed measurement during vehic
 
 ---
 
-### Digital Multimeter — STM32L051
+### Digital Multimeter - STM32L051
 
 Bare-metal embedded system for measuring resistance, voltage, frequency, capacitance, and inductance.
 
@@ -54,7 +54,7 @@ Bare-metal embedded system for measuring resistance, voltage, frequency, capacit
 
 ---
 
-### Reflow Oven Controller — 8052 Microcontroller
+### Reflow Oven Controller - 8052 Microcontroller
 
 Bare-metal thermal control system written in A51 assembly.
 
@@ -69,7 +69,7 @@ Bare-metal thermal control system written in A51 assembly.
 
 ## Experience
 
-### Hardware Test Intern — Norsat International
+### Hardware Test Intern - Norsat International
 
 Worked on RF hardware testing and troubleshooting for Ku-band systems.
 
