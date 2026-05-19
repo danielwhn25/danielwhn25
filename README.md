@@ -1,6 +1,6 @@
 # Daniel Ng
 
-Electrical Engineering student at UBC focused on embedded systems, firmware, PCB design, and hardware testing.
+Electrical Engineering student @UBC pursuing a career in embedded software development.
 
 - Portfolio: [danielng.pages.dev](https://danielng.pages.dev)
 - LinkedIn: [linkedin.com/in/danielngEE](https://linkedin.com/in/danielngEE)
