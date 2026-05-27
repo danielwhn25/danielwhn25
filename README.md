@@ -64,24 +64,3 @@ Bare-metal thermal control system written in A51 assembly.
 - Validated temperature behavior with live plotting and lab testing
 
 [GitHub](https://github.com/danielwhn25/4C11IV)
-
----
-
-## Experience
-
-### Hardware Test Intern - Norsat International
-
-Worked on RF hardware testing and troubleshooting for Ku-band systems.
-
-- Performed RF characterization using VNAs, RF signal analyzers, and lab test fixtures
-- Supported testing of gain, saturation, spurious emissions, IMD, and noise performance
-- Assisted with PCB-level inspection, rework, and troubleshooting
-- Used schematics and measurements to identify hardware issues in RF signal paths and bias circuitry
-
----
-
-## Currently Learning
-
-- FreeRTOS on ESP32 and ARM Cortex-M
-- PCB bring-up and power-system design
-- More structured firmware architecture for embedded projects
